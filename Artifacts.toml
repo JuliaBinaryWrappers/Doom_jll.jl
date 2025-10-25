@@ -1,0 +1,160 @@
+[[Doom]]
+arch = "aarch64"
+git-tree-sha1 = "749f8010bbbb5eb529468eefa14d4ec2ba3f97d7"
+os = "macos"
+
+    [[Doom.download]]
+    sha256 = "70cb13f155b939069e06f24d9be7eff3eb2551d7f266b803c8423bdd65b13c2a"
+    url = "https://github.com/JuliaBinaryWrappers/Doom_jll.jl/releases/download/Doom-v0.2.0+0/Doom.v0.2.0.aarch64-apple-darwin.tar.gz"
+[[Doom]]
+arch = "aarch64"
+git-tree-sha1 = "4da5d3e1dc9cf8e0ca95d9c001abf4719b6b91e6"
+libc = "glibc"
+os = "linux"
+
+    [[Doom.download]]
+    sha256 = "d8600518c96b8b80cd1cf683f3324d03d61c329fdffd9e54d65a956125da89b4"
+    url = "https://github.com/JuliaBinaryWrappers/Doom_jll.jl/releases/download/Doom-v0.2.0+0/Doom.v0.2.0.aarch64-linux-gnu.tar.gz"
+[[Doom]]
+arch = "aarch64"
+git-tree-sha1 = "7025fcc9092c406c04883f043b57587e2232afbc"
+libc = "musl"
+os = "linux"
+
+    [[Doom.download]]
+    sha256 = "0d1dcd6b2908361cd0b0e16b39312da4fc1f970f98b0d8b4767d1f312d2f36cc"
+    url = "https://github.com/JuliaBinaryWrappers/Doom_jll.jl/releases/download/Doom-v0.2.0+0/Doom.v0.2.0.aarch64-linux-musl.tar.gz"
+[[Doom]]
+arch = "aarch64"
+git-tree-sha1 = "4771165c33519918deb0cbbcb20359fb116cc6a8"
+os = "freebsd"
+
+    [[Doom.download]]
+    sha256 = "980890e9243fcef48e53e0e33d020fce6aebfc8c9519504db29e2f09f87239bd"
+    url = "https://github.com/JuliaBinaryWrappers/Doom_jll.jl/releases/download/Doom-v0.2.0+0/Doom.v0.2.0.aarch64-unknown-freebsd.tar.gz"
+[[Doom]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "ce9f04cd9cabdb1ae751d1ebafe88a3d064abecf"
+libc = "glibc"
+os = "linux"
+
+    [[Doom.download]]
+    sha256 = "4258bf697111946ebc1ad886dd21ec34aeb4ada4f439d5a7c516f50584cfbe3a"
+    url = "https://github.com/JuliaBinaryWrappers/Doom_jll.jl/releases/download/Doom-v0.2.0+0/Doom.v0.2.0.armv6l-linux-gnueabihf.tar.gz"
+[[Doom]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "e3c8bed659f005bcf925887b7572bb92bc84cb32"
+libc = "musl"
+os = "linux"
+
+    [[Doom.download]]
+    sha256 = "0c2d0934e7bbe350b36acc5a733b20bc990fec4ecc320617113fcd1346aa38d7"
+    url = "https://github.com/JuliaBinaryWrappers/Doom_jll.jl/releases/download/Doom-v0.2.0+0/Doom.v0.2.0.armv6l-linux-musleabihf.tar.gz"
+[[Doom]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "3d290b5552cb4ca5d938d8a3c04367e9d3ffd911"
+libc = "glibc"
+os = "linux"
+
+    [[Doom.download]]
+    sha256 = "76e91e0a15864c070d0e40b38de0b996fed4456508d1412fa01d3d7847d45b92"
+    url = "https://github.com/JuliaBinaryWrappers/Doom_jll.jl/releases/download/Doom-v0.2.0+0/Doom.v0.2.0.armv7l-linux-gnueabihf.tar.gz"
+[[Doom]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "e96cbf3f1aa0f170f9903853de680ecc55eda15d"
+libc = "musl"
+os = "linux"
+
+    [[Doom.download]]
+    sha256 = "660d78d10375bffd8d33f2063c7d0f378e51f6f6f811b8532df3d3f5d4810017"
+    url = "https://github.com/JuliaBinaryWrappers/Doom_jll.jl/releases/download/Doom-v0.2.0+0/Doom.v0.2.0.armv7l-linux-musleabihf.tar.gz"
+[[Doom]]
+arch = "i686"
+git-tree-sha1 = "7a775f86cfd84e1c8d475c604d03175895b5a508"
+libc = "glibc"
+os = "linux"
+
+    [[Doom.download]]
+    sha256 = "93e7499aaad42ea375189bd79fa6f95401ad5b08304f3b10a8b30d3931aaf401"
+    url = "https://github.com/JuliaBinaryWrappers/Doom_jll.jl/releases/download/Doom-v0.2.0+0/Doom.v0.2.0.i686-linux-gnu.tar.gz"
+[[Doom]]
+arch = "i686"
+git-tree-sha1 = "f1d85d69f7d596cf01880f54c9d530c82cf89d36"
+libc = "musl"
+os = "linux"
+
+    [[Doom.download]]
+    sha256 = "dbd84029a57509024ba7e63566d5d16f7392464fdff45238f87cdc6399e9beb2"
+    url = "https://github.com/JuliaBinaryWrappers/Doom_jll.jl/releases/download/Doom-v0.2.0+0/Doom.v0.2.0.i686-linux-musl.tar.gz"
+[[Doom]]
+arch = "i686"
+git-tree-sha1 = "9b43febfc3e674eb849bd8ec175e84581756c166"
+os = "windows"
+
+    [[Doom.download]]
+    sha256 = "a6f1cea38b229cfab5874a284c4b050d9299c1768cd2a960a25c94b088102cf2"
+    url = "https://github.com/JuliaBinaryWrappers/Doom_jll.jl/releases/download/Doom-v0.2.0+0/Doom.v0.2.0.i686-w64-mingw32.tar.gz"
+[[Doom]]
+arch = "powerpc64le"
+git-tree-sha1 = "8da32ee5239ad1b92d831da3edbcea8ade21246f"
+libc = "glibc"
+os = "linux"
+
+    [[Doom.download]]
+    sha256 = "78c760c88bbe0d65781e5d072c40100c1028db09ef3d97dea6fd8f9732f8da26"
+    url = "https://github.com/JuliaBinaryWrappers/Doom_jll.jl/releases/download/Doom-v0.2.0+0/Doom.v0.2.0.powerpc64le-linux-gnu.tar.gz"
+[[Doom]]
+arch = "riscv64"
+git-tree-sha1 = "25e9d727d6e86cc5116999dec7482798a652aee9"
+libc = "glibc"
+os = "linux"
+
+    [[Doom.download]]
+    sha256 = "931e141ab5212f28abcb52d58a5cbada7b58581bf015d7d27e3f670d9db4a547"
+    url = "https://github.com/JuliaBinaryWrappers/Doom_jll.jl/releases/download/Doom-v0.2.0+0/Doom.v0.2.0.riscv64-linux-gnu.tar.gz"
+[[Doom]]
+arch = "x86_64"
+git-tree-sha1 = "5493df50bca73d7ad649313c66ed5b419e010e0c"
+os = "macos"
+
+    [[Doom.download]]
+    sha256 = "f66b501cea1f3548f91384a5380c07addaffeada024ad5d6a6f13039319300ca"
+    url = "https://github.com/JuliaBinaryWrappers/Doom_jll.jl/releases/download/Doom-v0.2.0+0/Doom.v0.2.0.x86_64-apple-darwin.tar.gz"
+[[Doom]]
+arch = "x86_64"
+git-tree-sha1 = "8c914e68652cf8e83e02da0fd77532ab9a203f9e"
+libc = "glibc"
+os = "linux"
+
+    [[Doom.download]]
+    sha256 = "209992ccc58cb7e559db6fa50395408f6f0452d6012517b580686f3be1f1c919"
+    url = "https://github.com/JuliaBinaryWrappers/Doom_jll.jl/releases/download/Doom-v0.2.0+0/Doom.v0.2.0.x86_64-linux-gnu.tar.gz"
+[[Doom]]
+arch = "x86_64"
+git-tree-sha1 = "f0e25157395e66723b3d533dfcfeca7e1473aedc"
+libc = "musl"
+os = "linux"
+
+    [[Doom.download]]
+    sha256 = "054a65903f44e93897a9d751338bcc1c0c3ef0152e82e0fb05d613517f38a199"
+    url = "https://github.com/JuliaBinaryWrappers/Doom_jll.jl/releases/download/Doom-v0.2.0+0/Doom.v0.2.0.x86_64-linux-musl.tar.gz"
+[[Doom]]
+arch = "x86_64"
+git-tree-sha1 = "e777f3527e7183ef8492cf51fb19a62f961e8492"
+os = "freebsd"
+
+    [[Doom.download]]
+    sha256 = "57d04904fc9c861b32dd244f6cff47362782ad7d996662edca60cbe1573eb2f1"
+    url = "https://github.com/JuliaBinaryWrappers/Doom_jll.jl/releases/download/Doom-v0.2.0+0/Doom.v0.2.0.x86_64-unknown-freebsd.tar.gz"
+[[Doom]]
+arch = "x86_64"
+git-tree-sha1 = "b7e43db2b2c07fb473ca58d60932389c66f1a604"
+os = "windows"
+
+    [[Doom.download]]
+    sha256 = "0f2a8200bb476c65bf8f47a08c7b696bafa7757fcfb65f479c9bea437e8e723d"
+    url = "https://github.com/JuliaBinaryWrappers/Doom_jll.jl/releases/download/Doom-v0.2.0+0/Doom.v0.2.0.x86_64-w64-mingw32.tar.gz"
