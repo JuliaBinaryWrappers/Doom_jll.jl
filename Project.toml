@@ -1,6 +1,6 @@
 name = "Doom_jll"
 uuid = "3cb357e7-0c63-562a-a9d8-fef2e353dfb8"
-version = "0.2.0+0"
+version = "0.2.0+1"
 
 [deps]
 JLLWrappers = "692b3bcd-3c85-4b1f-b108-f13ce0eb3210"
